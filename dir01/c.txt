@@ -1,2 +1,1 @@
-dir01/CCC
-mod
+dir01/C
